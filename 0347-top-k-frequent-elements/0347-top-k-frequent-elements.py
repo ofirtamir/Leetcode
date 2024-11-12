@@ -8,7 +8,10 @@ class Solution:
 
         # return res
 
-        dic = Counter(nums)
+        # dic = Counter(nums)
+        dic ={}
+        for n in nums:
+            dic[n]= 1 + dic.get(n, 0)
         fr =[[] for i in range(len(nums) + 1)]
         for n ,c in dic.items():
             fr[c].append(n)
@@ -17,5 +20,5 @@ class Solution:
         for i in range(len(nums),0,-1):
             for n in fr[i]:
                 res.append(n)
-                if len(res)== k:
+                if len(res) == k:
                     return res
