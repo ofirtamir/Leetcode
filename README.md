@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ofirtamir/Leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/ofirtamir/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ofirtamir/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ofirtamir/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/ofirtamir/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ofirtamir/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ofirtamir/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ofirtamir/Leetcode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/ofirtamir/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ofirtamir/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ofirtamir/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ofirtamir/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ofirtamir/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
