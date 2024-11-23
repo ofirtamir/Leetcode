@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ofirtamir/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ofirtamir/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ofirtamir/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ofirtamir/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ofirtamir/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ofirtamir/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Linked List
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ofirtamir/Leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ofirtamir/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
