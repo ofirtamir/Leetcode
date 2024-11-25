@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ofirtamir/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ofirtamir/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ofirtamir/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/ofirtamir/Leetcode/tree/master/0338-counting-bits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ofirtamir/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ofirtamir/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ofirtamir/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/ofirtamir/Leetcode/tree/master/0338-counting-bits) |
 ## Union Find
 |  |
 | ------- |
