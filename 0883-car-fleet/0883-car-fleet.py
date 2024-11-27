@@ -4,9 +4,7 @@ class Solution:
         cars.sort()
         stack = []
         for x in range(len(cars)-1,-1,-1):
-            if not stack: 
-                stack.append(cars[x])
-            elif (target - stack[-1][0])/ (stack[-1][1]) < ((target-cars[x][0])/ cars[x][1]):
+            if not stack or (target - stack[-1][0])/ (stack[-1][1]) < ((target-cars[x][0])/ cars[x][1]):
                 stack.append(cars[x])
             
         return len(stack)
