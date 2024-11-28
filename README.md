@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ofirtamir/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ofirtamir/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ofirtamir/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1023-time-based-key-value-store](https://github.com/ofirtamir/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ofirtamir/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ofirtamir/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ofirtamir/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1023-time-based-key-value-store](https://github.com/ofirtamir/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ofirtamir/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/ofirtamir/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ofirtamir/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/ofirtamir/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Greedy
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/ofirtamir/Leetcode/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ofirtamir/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1023-time-based-key-value-store](https://github.com/ofirtamir/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
 | ------- |
