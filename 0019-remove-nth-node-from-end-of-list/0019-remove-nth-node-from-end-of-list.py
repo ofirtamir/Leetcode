@@ -21,9 +21,7 @@ class Solution:
         #     return head
         # cur.next=cur.next.next
         # return head
-        if not head.next and n==1:
-            head =None
-            return head
+
         if not head:
             return head
         prav, cur =None, head
