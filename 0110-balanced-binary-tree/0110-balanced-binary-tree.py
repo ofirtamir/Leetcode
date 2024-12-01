@@ -6,17 +6,17 @@
 #         self.right = right
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        def dfs(root):
+        
+        def dfs (root):
             if not root:
                 return 0
-            x = dfs(root.left)
-            if x == -1:  # אם תת-העץ השמאלי אינו מאוזן
+            x= dfs(root.left)
+            if x==-1:
                 return -1
-            y = dfs(root.right)
-            if y == -1:  # אם תת-העץ הימני אינו מאוזן
+            y= dfs(root.right)
+            if y==-1:
                 return -1
-            if abs(x - y) > 1:  # אם הפרש הגבהים גדול מ-1
+            if abs(x-y) >1:
                 return -1
-            return max(x, y) + 1
-        
-        return dfs(root) != -1
+            return max(x,y)+1
+        return False if dfs(root)==-1 else True
