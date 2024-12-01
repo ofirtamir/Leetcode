@@ -19,4 +19,4 @@ class Solution:
             if abs(x-y) >1:
                 return -1
             return max(x,y)+1
-        return False if dfs(root)==-1 else True
+        return dfs(root)!=-1
