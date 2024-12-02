@@ -12,7 +12,6 @@ class Solution:
                 return 
             h.append(candidates[i])
             dfs(i)
-            dfs(i+1)
             h.pop()
             dfs(i+1)
 
