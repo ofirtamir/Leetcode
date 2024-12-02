@@ -4,11 +4,12 @@ class Solution:
         h =[]
         res =[]
         def dfs(i):
-            if sum(h)== target:
+            x=sum(h)
+            if x== target:
                 if h not in res:
                     res.append(h.copy())
                 return
-            elif i>= len(candidates) or sum(h)> target:
+            elif i>= len(candidates) or x> target:
                 return 
             h.append(candidates[i])
             dfs(i)
