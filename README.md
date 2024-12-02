@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ofirtamir/Leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/ofirtamir/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/ofirtamir/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/ofirtamir/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ofirtamir/Leetcode/tree/master/1127-last-stone-weight) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ofirtamir/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ofirtamir/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/ofirtamir/Leetcode/tree/master/0883-car-fleet) |
+| [1014-k-closest-points-to-origin](https://github.com/ofirtamir/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -70,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ofirtamir/Leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/ofirtamir/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/ofirtamir/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ofirtamir/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ofirtamir/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ofirtamir/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/ofirtamir/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ofirtamir/Leetcode/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ofirtamir/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ofirtamir/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -159,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ofirtamir/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ofirtamir/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/ofirtamir/Leetcode/tree/master/0202-happy-number) |
+| [1014-k-closest-points-to-origin](https://github.com/ofirtamir/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -246,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/ofirtamir/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ofirtamir/Leetcode/tree/master/0883-car-fleet) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ofirtamir/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
