@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ofirtamir/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ofirtamir/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ofirtamir/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/ofirtamir/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ofirtamir/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ofirtamir/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ofirtamir/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ofirtamir/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ofirtamir/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ofirtamir/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/ofirtamir/Leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/ofirtamir/Leetcode/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/ofirtamir/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Sliding Window
