@@ -18,10 +18,9 @@ class Solution:
             return True
         if not root or not subRoot:
             return False
-        
-        if root.val ==subRoot.val:
-            return True and self.sub(root.left,subRoot.left) and self.sub(root.right,subRoot.right)
-        else:
+        if root.val !=subRoot.val:
             return False
-            
+        
+        return True and self.sub(root.left,subRoot.left) and self.sub(root.right,subRoot.right)
+
         
