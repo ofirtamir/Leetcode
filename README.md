@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ofirtamir/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ofirtamir/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ofirtamir/Leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/ofirtamir/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ofirtamir/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ofirtamir/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ofirtamir/Leetcode/tree/master/0090-subsets-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ofirtamir/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/ofirtamir/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/ofirtamir/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ofirtamir/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ofirtamir/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/ofirtamir/Leetcode/tree/master/0202-happy-number) |
