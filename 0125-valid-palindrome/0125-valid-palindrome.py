@@ -3,7 +3,6 @@ class Solution:
         s= s.lower()
         l =[]
         for i in s:
-            # if ord("a") <= ord(i) and ord("z")>= ord(i):
             if i.isalpha() or i.isdigit():
                 l.append(i)
         for x in range(len(l)//2):
