@@ -18,29 +18,26 @@ class Solution:
         #     print(i)
         #     res =max(res, len(i))
         # return res
-        ss =set()
-        l, r = 0, 0
-        res= 0
-        for r in range(len(s)):
-            while s[r] in ss:
-                ss.remove(s[l])
-                l+=1
-            ss.add(s[r])
-            res= max(res, r-l+1)
-        return res
-
-
-
-
-
-
-        # r, l =0, 0
         # ss =set()
-        # res=0
+        # l, r = 0, 0
+        # res= 0
         # for r in range(len(s)):
         #     while s[r] in ss:
         #         ss.remove(s[l])
         #         l+=1
         #     ss.add(s[r])
-        #     res=max(res, r-l +1)
+        #     res= max(res, r-l+1)
         # return res
+
+        max_length = left = 0
+        count = {}
+
+        for right, c in enumerate(s):
+            count[c] = 1 + count.get(c, 0)
+            while count[c] > 1:
+                count[s[left]] -= 1
+                left += 1
+        
+            max_length = max(max_length, right - left + 1)
+
+        return max_length
